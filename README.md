@@ -26,9 +26,6 @@ Bronze → Silver → Gold
 3. Clean and transform in Silver layer
 4. Aggregate into Gold layer
 
-## Screenshots
-(Add screenshots here)
-
 ## Future Improvements
 - Airflow orchestration
 - CI/CD
